@@ -50,8 +50,7 @@ GET /analytics/:shortId
 ## ⚙️ Installation
 
 1. Clone the repository
-git clone https://github.com/your-username/url-shortener.git
-
+git clone https://github.com/Vanshtyagi26/url-shortener
 2. Install dependencies
 npm install
 
